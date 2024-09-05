@@ -1,0 +1,21 @@
+{
+  "name": "examen_ci_cd_tuna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tunsay/Examen_CI_CD_tuna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tunsay/Examen_CI_CD_tuna/issues"
+  },
+  "homepage": "https://github.com/tunsay/Examen_CI_CD_tuna#readme"
+}
