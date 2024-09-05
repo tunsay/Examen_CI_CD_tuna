@@ -1,6 +1,3 @@
-# Mon Projet
-# Examen CI/CD - Lancer le Serveur
-
 # Examen CI/CD - Documentation
 
 ## Partie 1 : Initialisation du Dépôt Git
@@ -66,7 +63,8 @@
 
 **Note** : Assurez-vous que l'application écoute sur toutes les interfaces (`0.0.0.0`) dans votre fichier principal de l'application.
 
-
+# Examen CI/CD - Lancer le Serveur
+            
 Pour lancer le serveur de l'application conteneurisée, utilisez la commande suivante :
 
 ```bash
